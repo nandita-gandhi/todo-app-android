@@ -1,5 +1,5 @@
 # todo-app-android
-Basic app for adding todo tasks using Android Jetpack Compose
+Basic app for adding and storing todo tasks using Android Jetpack Compose and room DB
 
 # dependencies
 Uses latest Jetpack dependencies.
